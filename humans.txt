@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Arpan Patel	   arpan145@yahoo.com     @arpan145
 
 # THANKS
 
